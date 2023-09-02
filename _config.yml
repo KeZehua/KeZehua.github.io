@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "KZH/ Personal Blog"
+title                    : "KZH/ About me"
 title_separator          : "-"
 name                     : &name "kezehua"
 description              : &description "是个人哦！！！"
