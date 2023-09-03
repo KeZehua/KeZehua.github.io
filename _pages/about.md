@@ -8,6 +8,67 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+/* 添加一些基本的样式 */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3 {
+  color: #333;
+}
+
+p {
+  line-height: 1.6;
+}
+
+/* 添加一些样式到链接 */
+a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* 样式化列表 */
+ul, ol {
+  margin: 10px 0;
+  padding-left: 20px;
+}
+
+/* 添加样式到代码块 */
+pre {
+  background-color: #f8f8f8;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  overflow: auto;
+}
+
+/* 样式化引用块 */
+blockquote {
+  border-left: 2px solid #007BFF;
+  padding: 10px;
+  margin: 0;
+  background-color: #f8f8f8;
+}
+
+</style>
+
 我是一名就读于石家庄铁道大学的本科生，曾经的专业是材料科学与技术，后转专业至软件工程。
 
 ## 教育背景
