@@ -18,5 +18,8 @@ main:
   #- title: "CV"
   #  url: /cv/
     
+  - title: "Daily"
+    url: /daily/
+
   - title: "Guide"
     url: /markdown/
