@@ -111,3 +111,5 @@ blockquote {
 - **基于Spring Boot和Vue的老年病管理系统**: 构建医疗健康管理系统。
 - **基于Phpthink5框架的微信云简历管理系统**: 开发人力资源管理工具。
 - **在Loongnix上移植Thunderbird-100**: 移植电子邮件客户端。
+
+## 社会活动情况
