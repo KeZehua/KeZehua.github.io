@@ -17,17 +17,12 @@ redirect_from:
 
 学习情况
 -----
-# 我的技术栈
-
-以下是我学习过的技术和工具：
-
 ## 机器学习和深度学习
-- **机器学习**: 了解机器学习算法和模型，包括监督学习和无监督学习。
-- **深度学习**: 熟悉深度神经网络、TensorFlow和PyTorch等深度学习框架。
+- **机器学习**: 了解机器学习算法和模型。
+- **深度学习**: 熟悉深度神经网络、TensorFlow深度学习框架。
 
 ## Java后端开发
 - **Spring Boot**: 使用Spring Boot构建快速的Java应用程序。
-- **Spring Security**: 实现身份验证和授权。
 - **SSM（Spring + Spring MVC + MyBatis）**: 开发Java Web应用程序。
 
 ## 大数据和分布式计算
@@ -37,6 +32,8 @@ redirect_from:
 
 ## 前端开发
 - **HTML/CSS/JavaScript**: 构建互动和响应式的前端界面。
+- **Vue.js**: 现代JavaScript框架，用于构建交互式的Web界面。
+- **UniApp**: 跨平台应用开发框架，构建原生应用和Web应用。
 - **React**: 用于构建现代Web应用程序的JavaScript库。
 
 ## 数据库
@@ -46,13 +43,6 @@ redirect_from:
 ## 版本控制和工具
 - **Git**: 版本控制和协作。
 - **Docker**: 容器化应用程序。
-
-## 云服务
-- **Amazon Web Services (AWS)**: 云计算平台，用于托管应用程序和存储数据。
-
-## 数据科学和分析
-- **Pandas**: 数据处理和分析。
-- **Jupyter Notebook**: 数据分析和可视化。
 
 我会不断扩展我的知识，以应对不断变化的技术挑战。
 
