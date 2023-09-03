@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-<link rel="stylesheet" href="your-custom-styles.css">
-
-
 我是一名就读于石家庄铁道大学的本科生，曾经的专业是材料科学与技术，后转专业至软件工程。
 
 ## 教育背景
